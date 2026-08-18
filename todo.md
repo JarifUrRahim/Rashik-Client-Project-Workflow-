@@ -1,0 +1,55 @@
+# Project TODO
+
+- [x] Create Human Product Charter and Stage 1 acceptance criteria
+- [x] Define the mobile portrait UX, screen structure, user flows, and visual system in `design.md`
+- [x] Build first-use local-first consent flow
+- [x] Build Mirror thought composer with clarify, plan, and reflect modes
+- [x] Build guided reflection sheet without fake AI responses
+- [x] Build local Workspace for saved entries and humane plans
+- [x] Build privacy-first Vault with visible storage status and reset controls
+- [x] Persist local workspace data across app restarts
+- [x] Create Stage 1 unit tests for persistence, entry creation, and workspace reset
+- [x] Apply custom ONE visual theme and iOS-aligned interaction behavior
+- [x] Generate unique app icon and update app branding configuration
+- [x] Validate core user flows, mobile layout, type safety, and visual quality
+- [x] Save the completed Stage 1 checkpoint and prepare delivery notes
+- [x] Define aWake as the core Cognitive Mirror model and Rashik as the parent brand
+- [x] Integrate the approved Rashik identity asset without exceeding checkpoint media limits
+- [x] Update visible product copy, technical identity, and brand hierarchy to aWake
+- [x] Revalidate the renamed application and save an asset-safe checkpoint
+- [x] Define direct aWake chat consent, transparency, safety, and history rules
+- [x] Implement a server-side aWake model route without client API secrets
+- [x] Build the aWake chat interface with online/offline states and visible model status
+- [x] Persist only user-approved chat history and provide clear/delete controls
+- [x] Test chat success, consent refusal, service failure, and reset behavior
+- [x] Save chat-enabled checkpoint and provide backend publication decision
+- [x] Benchmark fast aWake model selection against current response path
+- [x] Reduce sent conversation context and constrain default response length
+- [x] Add clear aWake thinking feedback while the response is pending
+- [x] Validate optimized speed, response quality, and existing privacy controls
+- [x] Save latency-optimized checkpoint and report the speed change
+- [x] Keep aWake chat composer visible above the Android/iOS keyboard
+- [x] Add a clearly visible Mirror-to-Workspace save action for each reflection
+- [x] Increase contrast, size, and first-use discoverability of send/save/confirm actions
+- [x] Validate keyboard, save persistence, and primary-action accessibility on mobile
+- [x] Save usability-fix checkpoint and provide updated Android test guidance
+- [x] Create shared Bangla-English translation catalog and local language preference state
+- [x] Add a persistent বাংলা / English switch in the app navigation
+- [x] Localize aWake chat, Mirror, Workspace, Vault, consent, save and confirmation flows
+- [x] Pass selected language to aWake so chat replies honor the user language
+- [x] Test bilingual switch persistence, layout and aWake reply language
+- [x] Save localized checkpoint and provide updated Android test guidance
+- [x] Inspect cloud computer hardware, operating policy and existing service capacity
+- [x] Determine whether a self-hosted aWake model is feasible without new external API dependencies
+- [x] Archive the existing AgentOS application and its operational manifest
+- [x] Disable AgentOS auto-start, stop its running service, and close its public port
+- [x] Remove retired AgentOS deployment files after archive verification
+- [x] Create aWake core-environment directory and record its future persistent-service boundary
+- [x] Verify the server has no residual public AgentOS listener and document the migration outcome
+- [x] Present the hosted-chat cutover limitation and request approval before changing aWake routing
+- [ ] Inventory project files and define backup exclusions for secrets and user data
+- [ ] Create a restore-ready sanitized project backup package and integrity manifest
+- [ ] Write professional client-facing README, architecture, product, privacy and deployment documents
+- [ ] Clone the selected GitHub repository and review its current branch state
+- [ ] Push sanitized source, documentation and backup manifest to GitHub
+- [ ] Deliver the backup package, repository revision and recovery instructions
